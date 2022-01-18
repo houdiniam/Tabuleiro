@@ -27,7 +27,7 @@ export default function Quadrado(props) {
                         {criarQuadrados(props.tam, !props.bool)}
                     </div>
                 </div>
-                )}
+            )}
         </>
     )
 }
